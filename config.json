@@ -1,0 +1,7 @@
+{
+  "qq": 2, // qq號
+  "password": "", // 密碼
+  "heartbeat": "STAT_HB",
+  "protocol": "ANDROID_PHONE",
+  "workDirectory": "./2478987041" // 工作目錄
+}
